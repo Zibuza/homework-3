@@ -1,0 +1,17 @@
+
+  
+  .card {
+    margin-top: 100px;
+    width: 300px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .card img {
+    width: 100px ;
+    height: auto;
+    border-radius: 10px;
+  }
+  
